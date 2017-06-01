@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+<title>5 Principles</title>
+<style>
+.img-kk {
+height: 210;
+width: 400;
+}
+</style>
+</head>
+
+<body>
+
+<article>
+<h3>Mapping</h3>
+<img class = kk src = “http://i.imgur.com/cmlIIJP.jpg”>
+<p>We can see that mapping, one of the principles of design was utilized when making this webpage. From the screenshot, we can see that everything is in place to make one complete interactive page. Nothing gets in the way of the other, for example the search bar does not block out the buttons or scroll bar on the page.</p>
+</article>
+
+<article>
+<h3>Chunking</h3>
+<img class = kk src = “http://i.imgur.com/M2T9S8O.png”>
+<p>In this screenshot, we can see the utilization of chunking on the design of the web page. Videos are put together in the middle  of the page according to what category they fall in, for example the recommended category and recently uploaded category consist of different sets of videos. However they can have similar videos if the interest groups clash.</p>
+</article>
+
+<article>
+<h3>Signal-to-noise Ratio</h3>
+<img class = kk src = “http://i.imgur.com/M2T9S8O.png”>
+<p>In the screenshot of this webpage, we can see an example of a good signal-to-noise ratio. The ratio of information that is relevant is high compared to what is irrelevant to someone visiting the webpage. For example only a thumbnail of a video, the name of the video, the name of the uploader and the time the video was uploaded are present before one clicks on a video to watch. This is not too much to take in at once, hence a good ratio.</p>
+</article>
+
+<article>
+<h3>Golden Ratio</h3>
+<img class = kk src = “http://i.imgur.com/IQO5xiQ.png”>
+<p>The golden ratio consists of a good ratio of about 0.6/1.6 between the height and width elements of a form. From this screenshot we can see evidence of the golden ratio because the height of the video as well as all the pictures on the page is smaller than the width, resulting in a more landscape look.</p>
+</article>
+
+<article>
+<h3>Ockham’s Razor</h3>
+<img clas = kk src = “http://i.imgur.com/ZReZuYc.png”>
+<p>From this screenshot we can see that the web page design is actually quite simple. Everything on the page has a category and place it belongs to and nothing is made complicated  or “noisy” in any way. They are all simply arranged to look neat and tidy.</p>
+</article>
+
+</body>
